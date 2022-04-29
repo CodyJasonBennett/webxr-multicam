@@ -248,10 +248,9 @@ supports-preserve-symlinks-flag@^1.0.0:
   resolved "https://registry.yarnpkg.com/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz#6eda4bd344a3c94aea376d4cc31bc77311039e09"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
 
-"three@npm:@codyjasonbennett/three.js-holo@0.140.0":
-  version "0.140.0"
-  resolved "https://registry.yarnpkg.com/@codyjasonbennett/three.js-holo/-/three.js-holo-0.140.0.tgz#1de9af06400bcae8442fef98f0bfcb4563e5e435"
-  integrity sha512-VIDwaVkNDSGtM0rPxmDSafmYQMwLjsumohLcG5hFyVfLC+uPF8yokOHh3kHECLvAVhUE2SR/d4l/TBJWah21qQ==
+three@mrdoob/three.js#dev:
+  version "0.139.1"
+  resolved "https://codeload.github.com/mrdoob/three.js/tar.gz/01e4eaf0c17c5906a73628576fbe27609ac82618"
 
 vite@^2.9.5:
   version "2.9.6"

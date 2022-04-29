@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "holoplay-webxr": "npm:@codyjasonbennett/holoplay-webxr@0.1.0",
-    "three": "npm:@codyjasonbennett/three.js-holo@0.140.0",
+    "three": "mrdoob/three.js#dev",
     "webxr-polyfill": "npm:@codyjasonbennett/webxr-polyfill@2.0.3"
   },
   "scripts": {
