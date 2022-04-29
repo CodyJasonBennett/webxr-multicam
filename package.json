@@ -1,0 +1,18 @@
+{
+  "name": "webxr-multicam",
+  "private": true,
+  "version": "0.0.0",
+  "devDependencies": {
+    "vite": "^2.9.5"
+  },
+  "dependencies": {
+    "holoplay-webxr": "npm:@codyjasonbennett/holoplay-webxr@0.1.0",
+    "three": "npm:@codyjasonbennett/three.js-holo@0.140.0",
+    "webxr-polyfill": "npm:@codyjasonbennett/webxr-polyfill@2.0.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}
